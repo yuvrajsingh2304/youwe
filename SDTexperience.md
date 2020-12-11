@@ -3,7 +3,7 @@ Hi there, I'm Yuvraj Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 
 <img src="picture.png" title="" alt="YJS" width="180">
 
-## My experience of working on SDT on "Efficient, Trackable & Sustainable Workflow"  
+## My experience of working on SDT on "Efficient, Trackable and Sustainable Workflow"  
 
 It was **adventurous**. 🔭😄
 
