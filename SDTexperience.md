@@ -15,7 +15,7 @@ The pressure itself made us learn at a much faster pase. Undoubtedly, being a no
 these things have made me feel like **There is a magic in our fingers**. ✨✨
 
 As a result of which, I have become addicted to exploring GitHub for things and managing my documents like I always wanted to.
-Learning together with a great [team](https://github.com/shailjasharma15) was an amazing experience. 
+Learning together with a great team ([1](https://github.com/hsrai), [2](https://github.com/shailjasharma15), [3](https://github.com/gndecds)) was an amazing experience. 
 
 *Thank you* would be a small word to acknowledge you "[Dr Rai](https://github.com/hsrai)" for giving this great opportunity to learn and teach this powerful tool. 
 
