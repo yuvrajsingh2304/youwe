@@ -14,7 +14,8 @@ the 5 days of course more. *But may be, this is how we learn.* 😉
 The pressure itself made us learn at a much faster pase. Undoubtedly, being a non-IT or non-CSE faculty, learning 
 these things have made me feel like **There is a magic in our fingers**. ✨✨
 
-As a result of which, I have become addicted to exploring GitHub for things and managing my documents like I always wanted to. 
+As a result of which, I have become addicted to exploring GitHub for things and managing my documents like I always wanted to.
+Learning together with a great team was an amazing expereince. ✨✨
 
 *Thank you* would be a small word to acknowledge you "[Dr Rai](https://github.com/hsrai)" for giving this great opportunity to learn and teach this powerful tool. 
 
