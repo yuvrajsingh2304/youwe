@@ -1,7 +1,7 @@
 
 Hi there, I'm Yuvraj Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://github.com/yuvrajsingh2304/Profile/blob/main/Images/uv.png" title="" alt="YJS" width="180">
+<img src="picture.png" title="" alt="YJS" width="180">
 
 ## My experience of working on SDT on "Efficient, Trackable & Sustainable Workflow"  
 
@@ -18,10 +18,13 @@ As a result of which, I have become addicted to exploring GitHub for things and 
 
 *Thank you* would be a small word to acknowledge you "[Dr Rai](https://github.com/hsrai)" for giving this great opportunity to learn and teach this powerful tool. 
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-With Regards
-
+With Regards   
 [Yuvraj Singh](https://github.com/yuvrajsingh2304)
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+
 
 
 
