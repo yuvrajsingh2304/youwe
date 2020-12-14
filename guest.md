@@ -1,7 +1,7 @@
 ## Dr. Savita Gupta 
 #### Director UIET, Panjab University, Chandigarh
 
-Dr. Savita Gupta has a vast teaching and research expereince of over 30 years. She 
+Dr. Savita Gupta has a vast teaching and research experience of over 30 years. She 
 completed her PhD in 2007 and her research areas include Signal and Image Processing, Network Security, Medical Image
 Analysis, Cognitive enhancement, Machine Intelligence, Wavelets based Signal and Image processing, and Wireless Sensor Networks.
 After serving in SLIET, Longowal for 16 years, She has been working in UIET, Panjab Universiy, Chandigarh since 2008. 
